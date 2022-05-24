@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+}
+
+body div .swiper-slide {
+  background: #000;
+  height: 100vh;
+}
+
+div .swiper-slide img {
+  width: 100%;
+}
